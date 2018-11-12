@@ -1,0 +1,5 @@
+{
+    "disableAutoUpdate": false,
+    "servers": ["https://raw.githubusercontent.com/teralove/no-motes/master/"],
+    "supportUrl": "https://github.com/teralove/no-motes/issues"
+}
